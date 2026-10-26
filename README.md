@@ -284,7 +284,7 @@ Commit: `Part 3: MongoDB`
 
 This week you each get **your own server**. It isn't like `lampforall`: you have a real shell, and it can run Node and MongoDB. We'll deploy to it in the next labs. Today, just log in and look around. **Don't install or change anything yet.**
 
-Your server's address and username are in Slack.
+I'll post your server's address and username in Slack when the servers are ready. If they aren't ready by the due date, skip Part 4 for now: it moves to Lab 6.
 
 ```bash
 ssh yourname@your-server-address
