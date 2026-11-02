@@ -311,7 +311,7 @@ Then type each of these and look at what it says:
 # Hand it in
 
 17. Push this repo (code **and** this README with your answers) to **your own GitHub repo**.
-18. Submit your GitHub repo link in Moodle. Due **Tuesday, November 3**.
+18. Submit your GitHub repo link in Moodle.
 
 ---
 
